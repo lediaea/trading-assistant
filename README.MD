@@ -1,6 +1,6 @@
 # LediaEA Trading Assistant
 
-Powered by [https://LediaEA.com](htttps://lediaea.com)
+Powered by [https://LediaEA.com](https://lediaea.com)
 
 Trade safer & faster with LediaEA Assistant, calculate your risk & profit factor.
 ![LediaEA](https://user-images.githubusercontent.com/6604621/90139114-96932700-dd80-11ea-917e-247232c699d6.PNG)
