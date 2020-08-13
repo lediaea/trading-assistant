@@ -95,7 +95,7 @@ bool LediaEAGUI::CreateLedia(void)
       const int LOGO_X1=LEDIA_CLIENT_WIDTH / 2 - 75;
       const int LOGO_X2=100;
       const int LOGO_Y1=7;
-      const int LOGO_Y2=42;
+      const int LOGO_Y2=46;
       //--- toggle spaces
       const int TOGGLE_X1=20;
       const int TOGGLE_X2=LEDIA_CLIENT_WIDTH - 20;
